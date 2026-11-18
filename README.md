@@ -4,6 +4,14 @@ Track Claude Code, Codex, and Cursor usage in your Mac menu bar. Check account l
 
 **[Download QuotaBro for Mac](https://github.com/mascarock/QuotaBro-downloads/releases/latest/download/QuotaBro.dmg)** · [Release notes](https://github.com/mascarock/QuotaBro-downloads/releases/latest) · [SHA-256 checksum](https://github.com/mascarock/QuotaBro-downloads/releases/latest/download/SHA256SUMS)
 
+## Prototype screenshots
+
+These four screens show the Mac App Store prototype with fictional sessions, project paths and usage figures.
+
+[![QuotaBro dashboard showing Claude and Codex limits and an example session list](screenshots/01-QuotaBro-dashboard.png)](screenshots/01-QuotaBro-dashboard.png)
+
+[Usage breakdown](screenshots/02-QuotaBro-explain.png) · [Session requests](screenshots/03-QuotaBro-requests.png) · [Menu bar panel](screenshots/04-QuotaBro-panel.png) · [Download all four screenshots (ZIP)](https://raw.githubusercontent.com/mascarock/QuotaBro-downloads/main/screenshots/QuotaBro-prototype-preview.zip)
+
 ## Install
 
 Requires macOS 15 or later on Apple silicon or Intel. Open the DMG, drag **QuotaBro** to **Applications**, then launch it from Applications. Vibefy LLC signs the app and Apple notarizes the download.
