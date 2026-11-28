@@ -8,7 +8,7 @@ Track Claude Code, Codex, and Cursor usage in your Mac menu bar. Check account l
 
 QuotaBro for Windows sits in the notification area by the clock, with the same popup and dashboard.
 
-**[Download QuotaBro for Windows (64-bit)](https://github.com/mascarock/QuotaBro-downloads/releases/download/windows-v0.3.2/aiusage-tray-0.3.2-windows-amd64.zip)** · [Windows on Arm](https://github.com/mascarock/QuotaBro-downloads/releases/download/windows-v0.3.2/aiusage-tray-0.3.2-windows-arm64.zip) · [Release notes](https://github.com/mascarock/QuotaBro-downloads/releases/tag/windows-v0.3.2) · [SHA-256 checksums](https://github.com/mascarock/QuotaBro-downloads/releases/download/windows-v0.3.2/SHA256SUMS)
+**[Download QuotaBro for Windows (64-bit)](https://github.com/mascarock/QuotaBro-downloads/releases/download/windows-v0.3.3/aiusage-tray-0.3.3-windows-amd64.zip)** · [Windows on Arm](https://github.com/mascarock/QuotaBro-downloads/releases/download/windows-v0.3.3/aiusage-tray-0.3.3-windows-arm64.zip) · [Release notes](https://github.com/mascarock/QuotaBro-downloads/releases/tag/windows-v0.3.3) · [SHA-256 checksums](https://github.com/mascarock/QuotaBro-downloads/releases/download/windows-v0.3.3/SHA256SUMS)
 
 Unzip the download and run **QuotaBro.exe**. It requires Windows 10 or 11 and the Microsoft Edge WebView2 Runtime, which both already include. The Windows build isn't code-signed yet: if SmartScreen says "Windows protected your PC", click **More info**, then **Run anyway**. For Claude limits, sign in to Claude Code once with `claude` and `/login`. A command-line `aiusage.exe` is attached to the same release.
 
